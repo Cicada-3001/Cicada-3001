@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pablo Picasso Sancho AKA Cicada-3001</h1>
+<h1 align="center">Hi 👋, I'm Pablo Picasso Sancho</h1>
 <h3 align="center">A passionate mobile and web developer</h3>
 
 - 🔭 I’m currently working on **cash-out**

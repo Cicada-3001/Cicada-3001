@@ -3,7 +3,7 @@
 
 -  I’m currently working on **cash-out**
 
--  Ask me about **MERN, MEAN , Android, MSQL**
+-  Ask me about **MERN , MEAN , Android ,  React-native , SQL**
 
 -  Reach me via **pablocasso20@gmail.com**
 

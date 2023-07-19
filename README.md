@@ -1,13 +1,11 @@
 <h2 align="center">Hi 👋, I'm Pablo</h2>
 <h4 align="center">A passionate mobile and web developer</h4>
 
-- 🔭 I’m currently working on **cash-out**
+-  I’m currently working on **cash-out**
 
-- 🌱 I’m currently learning **React-native**
+-  Ask me about **MERN, MEAN , Android, MSQL**
 
-- 💬 Ask me about **MERN, MEAN , Android, MSQL**
-
-- 📫 How to reach me **pablocasso20@gmail.com**
+-  Reach me via **pablocasso20@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>

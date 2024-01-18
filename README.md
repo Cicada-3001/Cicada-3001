@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋, I'm Pablo</h2>
 <h4 align="center">A passionate mobile and web developer</h4>
 
--  I’m currently working on **cash-out**
+-  I’m currently working on **CASH-OUT**
 
--  Ask me about **MERN , MEAN , Android ,  React-native , SQL**
+-  Ask me about **MERN , MEAN , MEVN, Android**
 
 -  Reach me via **pablocasso20@gmail.com**
 

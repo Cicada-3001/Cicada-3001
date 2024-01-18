@@ -1,4 +1,4 @@
-<h2 align="center">HI 👋, IAM PABLO</h2>
+<h2 align="center">HI 👋, I AM PABLO SANCHO</h2>
 <h4 align="center">A passionate mobile and web developer</h4>
 
 -  I’m currently working on **CASH-OUT**

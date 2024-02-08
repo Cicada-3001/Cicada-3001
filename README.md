@@ -1,11 +1,9 @@
 <h2 align="center">HI, I AM PABLO SANCHO</h2>
 <h4 align="center">A persistent, passionate software developer</h4>
 
--  I’m currently working on **CASH-OUT**
 
 -  Ask me about **MERN , MEAN , MEVN, ANDROID, FLUTTER**
 
--  Reach me via **pablocasso20@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>

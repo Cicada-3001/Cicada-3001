@@ -2,7 +2,7 @@
 <h4 align="center">A persistent, passionate software developer</h4>
 
 
--  Ask me about **MERN , MEAN , MEVN, ANDROID, KMP**
+-  Ask me about **BACKEND DEVELOPMENT , MOBILE DEVELOPMENT (WEB & MOBILE), DEV/SEC OPS, SYSTEM ARCHITECTURE AND DESIGN**
 
 
 

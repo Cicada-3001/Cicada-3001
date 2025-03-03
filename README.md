@@ -1,4 +1,4 @@
-<h2 align="center">HI, I AM PICASSO SANCHO</h2>
+<h2 align="center">HI, I AM SANCHO</h2>
 <h4 align="center">A persistent, passionate software developer</h4>
 
 
